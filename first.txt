@@ -1,3 +1,9 @@
 hii , Everyone
+<<<<<<< HEAD
 hi, new user here
 hiabbvjdvjbav
+=======
+Konichiwa, watashi Manish Desu
+what is this buddy 
+>>>>>>> 96c9d7154a7e930beb5568822874cabbf0b18570
+hi everyone
